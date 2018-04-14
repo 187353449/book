@@ -1,0 +1,6 @@
+在目录D:\opencource\SmartAs\smartas-ui反键，打开命令窗口，执行
+npm run dev
+在浏览器访问 http://localhost:8080
+
+设计思路
+https://segmentfault.com/a/1190000008819650
